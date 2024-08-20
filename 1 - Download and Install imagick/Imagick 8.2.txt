@@ -1,0 +1,3 @@
+https://github.com/Imagick/imagick/issues/573
+
+https://www.webappfix.com/post/error-you-need-to-install-the-imagick-extension-to-use-this-back-end.html

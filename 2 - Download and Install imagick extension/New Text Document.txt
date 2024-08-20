@@ -1,0 +1,3 @@
+https://phpandmysql.com/extras/install-imagemagick-and-imagick-xampp/
+
+https://pecl.php.net/package/imagick
